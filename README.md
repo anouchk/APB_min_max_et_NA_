@@ -1,7 +1,7 @@
 # APB_min_max_et_NA_
 
 Il s'agit d'appliquer les fonctions fonctions sum, as.numeric ou encore merge de data.table dans R, 
-expliquées dans cette <a href="https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf">cheatsheet</a>, 
+expliquées dans cette <a href="https://raw.githubusercontent.com/rstudio/cheatsheets/master/datatable.pdf">cheatsheet</a>, 
 à un jeu de données du MESRI relatif aux voeux de poursuites d'études et aux admissions des futurs bacheliers en 2017 via APB.
 
 L'objectif est de voir, **dans chaque académie, le lycée prépa qui a le plus, et celui qui a le moins d'admis boursiers (les valeurs extrêmes).**
